@@ -1,0 +1,4 @@
+include ':compose'
+include ':service'
+include ':app'
+rootProject.name = "StockTracking"
