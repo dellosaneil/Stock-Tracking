@@ -66,6 +66,8 @@ dependencies {
     implementation("androidx.compose.material:material-icons-core:$compose_version")
     implementation("androidx.compose.material:material-icons-extended:$compose_version")
     implementation("androidx.navigation:navigation-compose:$compose_navigation_version")
+    implementation "com.google.accompanist:accompanist-systemuicontroller:$compose_system_ui_controller_version"
+
 
     // Dagger Hilt
     implementation("com.google.dagger:hilt-android:$dagger_version")
