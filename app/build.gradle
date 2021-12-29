@@ -68,6 +68,9 @@ dependencies {
     implementation "androidx.activity:activity-compose:$activity_compose_version"
     // Timber
     implementation "com.jakewharton.timber:timber:$timber_version"
+//    Scarlet
+
+    implementation "com.tinder.scarlet:scarlet:$scarlet_version"
 
 
 }
