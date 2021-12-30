@@ -77,4 +77,10 @@ dependencies {
     kapt("androidx.hilt:hilt-compiler:1.0.0")
 
 
+    // Scarlet
+    implementation "com.tinder.scarlet:scarlet:$scarlet_version"
+    implementation "com.tinder.scarlet:message-adapter-gson:$scarlet_version"
+    implementation "com.tinder.scarlet:stream-adapter-rxjava2:$scarlet_version"
+
+
 }
